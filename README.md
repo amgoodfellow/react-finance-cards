@@ -5,3 +5,9 @@
 
 ## How to Demo
 > For anyone new to React, you can get a demonstration of these cards by downloading the repository. Then, in a terminal, naviagte to the cloned directory and run the `python -m SimpleHTTPServer` command. It'll start a localHost on port 8000 by default. In a new tab in your browser type localhost:8000/main.html. You should see the cards! Enjoy!
+
+## Screenshots
+
+![Minimized View](./MinimizedCard.png)
+
+![Expanded View](./ExpandedCard.png)
