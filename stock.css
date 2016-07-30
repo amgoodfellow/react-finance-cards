@@ -1,0 +1,75 @@
+.stock-soffit-card{
+    margin: 2rem;
+    width: 15rem;
+    box-shadow: 0px 5px 15px 0px rgba(0,0,0,0.5);
+    
+}
+
+.stock-soffit-titlebar{
+    height: 8rem;
+    background-color: #2196F3;
+    color: white;
+    opacity: .87;
+}
+
+.stock-soffit-titlebar-content{
+    padding: 1rem;
+}
+
+.soffit-stock-price{
+    margin-top: .7rem;
+    font-size: 2rem;
+}
+
+.stockAndPercent{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.soffit-stock-card-percent{
+    
+}
+
+.soffit-stock-disclaimer{
+    font-size: small;
+    text-align: center;
+    margin-top: .5rem;
+}
+
+.soffitCardButton{
+    display: flex;
+    align-self: center;
+    border-radius: 5rem;
+    border: none;
+    background-color: deeppink
+}
+
+.mdl-button.mdl-js-button.mdl-button--fab.mdl-js-ripple-effect.mdl-button--colored{
+    display: flex;
+    background-color: #1976D2;
+    height: 2rem;
+    min-width: 0rem;
+    width: 2rem;
+}
+
+#stockPriceUpArrow{
+    font-size: 18px;
+    margin-right: .1rem;
+    margin-bottom: -3rem;
+}
+
+.soffit-stock-extra-content{
+    height: 20rem;
+    opacity: 1;
+    transition: 3s;
+}
+
+.content-content-ception{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: 2rem;
+    margin-left: .4rem;
+    height: 100%;
+}
